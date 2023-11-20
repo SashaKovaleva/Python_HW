@@ -53,6 +53,8 @@ print(min_flips_needed)
 # На выходе:
 # 3 9
 
+s = 12
+p = 27
 solutions = []
 for i in range(1, 1001):
     for j in range(1, 1001):
