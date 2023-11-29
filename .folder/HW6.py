@@ -26,9 +26,9 @@ for i in range(len(list_1)):
         print(i)
 
 # эталонное решение платформы:
-for i in range(len(list_1)):
-  if min_number <= list_1[i] <= max_number:
-    print(i)
+# for i in range(len(list_1)):
+#   if min_number <= list_1[i] <= max_number:
+#     print(i)
 
 
 '''
