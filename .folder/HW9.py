@@ -14,7 +14,8 @@ avg = df[(df["population"] > 0) & (df["population"] < 500)]["median_house_value"
 """
 Задача: Максимальная households
 Дан файл california_housing_train.csv.
-Найти максимальное значение переменной "households" в зоне минимального значения переменной "population" и сохраните это значение в переменную max_households_in_min_population.
+Найти максимальное значение переменной "households" в зоне минимального значения переменной "population"
+и сохраните это значение в переменную max_households_in_min_population.
 Используйте модуль pandas.
 """
 
